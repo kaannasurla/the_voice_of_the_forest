@@ -1,1 +1,1 @@
-# the_voice_of_the_forest
+# Design and mathematical modeling of a device for detecting and locating potentially dangerous sounds in the forest
